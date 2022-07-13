@@ -33,8 +33,8 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'Instagram',
+        url: 'https://www.instagram.com/animequotendious/'
     }
 }, {
   urlButton: {
@@ -184,3 +184,4 @@ Module({
       quoted: message.data
   })
 }));
+https://www.instagram.com/animequotendious/
